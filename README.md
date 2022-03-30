@@ -66,17 +66,12 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
     </tr>
 </table>
 
-### Vi ser etter nye medlemmer
-
-![bli med](bilder/bli_med.png?raw=true)
-
 ### Aktivitetsplan
 
 ![aktivitetsplan](bilder/aktivitetsplan.png?raw=true)
 
-### Støtt oss
-
-![støtt oss med grasrotandelen](bilder/grasrot.png?raw=true)
+| ![bli med](bilder/bli_med.png?raw=true) | ![støtt oss med grasrotandelen](bilder/grasrot.png?raw=true) |
+| --- | --- |
 
 ### Styret
 
