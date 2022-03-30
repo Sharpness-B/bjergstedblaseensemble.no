@@ -33,6 +33,20 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+![aktivitetsplan](bilder/aktivitetsplan.png?raw=true)
+
+<table>
+    <tr>
+        <th><img src="bilder/bli_med.png?raw=true"></th>
+        <th><img src="bilder/grasrot.png?raw=true"></th>
+    </tr>
+</table>
+
+<!--
+![bli med](bilder/bli_med.png?raw=true)
+![bli med](bilder/grasrot.png?raw=true)
+-->
+
 ### NM-resultater
 
 <table>
@@ -65,20 +79,6 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
         <td></td>
     </tr>
 </table>
-
-![aktivitetsplan](bilder/aktivitetsplan.png?raw=true)
-
-<table>
-    <tr>
-        <th><img src="bilder/bli_med.png?raw=true"></th>
-        <th><img src="bilder/grasrot.png?raw=true"></th>
-    </tr>
-</table>
-
-<!--
-![bli med](bilder/bli_med.png?raw=true)
-![bli med](bilder/grasrot.png?raw=true)
--->
 
 ### Styret
 
