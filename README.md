@@ -1,37 +1,120 @@
+<!--                  
+
++---------------------------------------------------------------+
+|                          MMMMMMMMMMMMMM                       |
+|                       MM                MM                    |
+|                     M                      M                  |
+|         MM    MMM  MMMM   M   M              M                |
+|         M M  M   MM    M M     M               M              |
+|         M..M.M...MN.....M.......M................M            |
+|                                                               |
+|    MMMMMMMMMMMMM         MMMMMMMMMMMMM         MMMMMMMMMMMMM  |
+|  MMMM         MMMM     MMMM         MMMM      MMMM            |
+|  MMMM          MMM     MMMM          MMM     MMMMM            |
+|  MMMM         MMMM     MMMM         MMMM     MMMMM            |
+|  MMMMMMMMMMMMMMM       MMMMMMMMMMMMMMM       MMMMMMMMMMMMM    |
+|  MMMM        MMMMM     MMMM        MMMMM     MMMMM            |
+|  MMMM         MMMMM    MMMM         MMMMM    MMMMM            |
+|  MMMM          MMMM    MMMM          MMMM     MMMM            |
+|   MMMM        MMMM      MMMM        MMMM      MMMM            |
+|     MMMMMMMMMMMMM         MMMMMMMMMMMMM        MMMMMMMMMMMMM  | 
++---------------------------------------------------------------+
+
+-->
+
 ## Bjergsted Blåseensemble
 
-You can use the [editor on GitHub](https://github.com/Sharpness-B/bjergstedblaseensemble.no/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i Stavanger. Ensemblet har janitsjarbesetning og er opprettet med den hensikt å gi studenter og musikere i regionen et korpstilbud på høyt nivå. BBE skal spille konserter med standardrepertoar for korps for å gi medlemmene verdifull erfaring mot senere arbeid i profesjonelle korps. BBE har en ambisjon om å delta årlig i Norgesmesterskapet for janitsjarkorps i Trondheim.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://www.facebook.com/bjergstedblaseensemble/" target="_blank" >
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/bjergsted_blaaseensemble/" target="_blank" >
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-### Markdown
+### NM-resultater
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<table>
+    <tr>
+        <th>År</th>
+        <th>Dirigent</th>
+        <th>Divisjon</th>
+        <th>Plassering</th>
+        <th>Priser</th>
+    </tr>
+    <tr>
+        <td>2019</td>
+        <td>Rune Furøy Johansen</td>
+        <td>1.</td>
+        <td>2.</td>
+        <td>Gruppepris til klarinettene, Komponistforeningens hederspris</td>
+    </tr>
+    <tr>
+        <td>2018</td>
+        <td>Rune Furøy Johansen</td>
+        <td>1.</td>
+        <td>8.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td>Rune Furøy Johansen</td>
+        <td>2.</td>
+        <td>1.</td>
+        <td></td>
+    </tr>
+</table>
 
-```markdown
-Syntax highlighted code block
+### Vi ser etter nye medlemmer
 
-# Header 1
-## Header 2
-### Header 3
+![bli med](bilder/bli_med.png?raw=true)
 
-- Bulleted
-- List
+### Aktivitetsplan
 
-1. Numbered
-2. List
+![aktivitetsplan](bilder/aktivitetsplan.png?raw=true)
 
-**Bold** and _Italic_ and `Code` text
+### Støtt oss
 
-[Link](url) and ![Image](src)
-```
+![støtt oss med grasrotandelen](bilder/grasrot.png?raw=true)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Styret
 
-### Jekyll Themes
+<table>
+    <tr>
+        <th>Navn</th>
+        <th>Posisjon</th>
+        <th>E-post</th>
+    </tr>
+    <tr>
+        <td>Henrik Aarnes</td>
+        <td>Styreleder</td>
+        <td><a href="mailto:henrik@bjergstedblaseensemble.no">henrik@bjergstedblaseensemble.no</a></td>
+    </tr>
+    <tr>
+        <td>Ragnhild Kristine Midtbø</td>
+        <td>Nestleder</td>
+        <td><a href="mailto:ragnhild@bjergstedblaseensemble.no">ragnhild@bjergstedblaseensemble.no</a></td>
+    </tr>
+    <tr>
+        <td>Espen Behrens</td>
+        <td>Kasserer</td>
+        <td><a href="mailto:espen@bjergstedblaseensemble.no">espen@bjergstedblaseensemble.no</a></td>
+    </tr>
+    <tr>
+        <td>Kim Bjørnerud</td>
+        <td>Styremedlem</td>
+        <td><a href="mailto:kim@bjergstedblaseensemble.no">kim@bjergstedblaseensemble.no</a></td>
+    </tr>
+    <tr>
+        <td>Bendik Skarpnes</td>
+        <td>Vara styremedlem</td>
+        <td><a href="mailto:bendik@bjergstedblaseensemble.no">bendik@bjergstedblaseensemble.no</a></td>
+    </tr>
+</table>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sharpness-B/bjergstedblaseensemble.no/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--
+### Vi øver i lille konsertsal
+    
+<iframe src="https://www.google.com/maps/d/embed?mid=16oeUWaAjcMm2C-TBewSvd6ztNElpXuwF"></iframe>
+-->
