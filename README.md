@@ -82,36 +82,38 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
 
 ### Styret
 
+E-post: <a href="mailto:post@bjergstedblaseensemble.no">post@bjergstedblaseensemble.no</a>
+
 <table>
     <tr>
         <th>Navn</th>
-        <th>Posisjon</th>
-        <th>E-post</th>
+        <th>Stilling</th>
+        <!-- <th>E-post</th> -->
     </tr>
     <tr>
         <td>Henrik Aarnes</td>
         <td>Styreleder</td>
-        <td><a href="mailto:henrik@bjergstedblaseensemble.no">henrik@bjergstedblaseensemble.no</a></td>
+        <!-- <td><a href="mailto:henrik@bjergstedblaseensemble.no">henrik@bjergstedblaseensemble.no</a></td> -->
     </tr>
     <tr>
         <td>Ragnhild Kristine Midtbø</td>
         <td>Nestleder</td>
-        <td><a href="mailto:ragnhild@bjergstedblaseensemble.no">ragnhild@bjergstedblaseensemble.no</a></td>
+        <!-- <td><a href="mailto:ragnhild@bjergstedblaseensemble.no">ragnhild@bjergstedblaseensemble.no</a></td> -->
     </tr>
     <tr>
         <td>Espen Behrens</td>
         <td>Kasserer</td>
-        <td><a href="mailto:espen@bjergstedblaseensemble.no">espen@bjergstedblaseensemble.no</a></td>
+        <!-- <td><a href="mailto:espen@bjergstedblaseensemble.no">espen@bjergstedblaseensemble.no</a></td> -->
     </tr>
     <tr>
         <td>Kim Bjørnerud</td>
         <td>Styremedlem</td>
-        <td><a href="mailto:kim@bjergstedblaseensemble.no">kim@bjergstedblaseensemble.no</a></td>
+        <!-- <td><a href="mailto:kim@bjergstedblaseensemble.no">kim@bjergstedblaseensemble.no</a></td> -->
     </tr>
     <tr>
         <td>Bendik Skarpnes</td>
         <td>Vara styremedlem</td>
-        <td><a href="mailto:bendik@bjergstedblaseensemble.no">bendik@bjergstedblaseensemble.no</a></td>
+        <!-- <td><a href="mailto:bendik@bjergstedblaseensemble.no">bendik@bjergstedblaseensemble.no</a></td> -->
     </tr>
 </table>
 
