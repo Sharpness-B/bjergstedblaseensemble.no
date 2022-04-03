@@ -22,7 +22,7 @@
 
 -->
 
-## Bjergsted Blåseensemble
+<!-- ## Bjergsted Blåseensemble -->
 
 Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i Stavanger. Ensemblet har janitsjarbesetning og er opprettet med den hensikt å gi studenter og musikere i regionen et korpstilbud på høyt nivå. BBE skal spille konserter med standardrepertoar for korps for å gi medlemmene verdifull erfaring mot senere arbeid i profesjonelle korps. BBE har en ambisjon om å delta årlig i Norgesmesterskapet for janitsjarkorps i Trondheim.
 
