@@ -3,6 +3,7 @@ title: Bjergsted Blåseensemble
 description: Velkommen!
 github:
   is_project_page: false
+  show_downloads: false
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
