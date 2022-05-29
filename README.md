@@ -114,9 +114,3 @@ E-post: <a href="mailto:post@bjergstedblaseensemble.no">post@bjergstedblaseensem
         <td>Styremedlem</td>
     </tr>
 </table>
-
-<!--
-### Vi øver i lille konsertsal
-    
-<iframe src="https://www.google.com/maps/d/embed?mid=16oeUWaAjcMm2C-TBewSvd6ztNElpXuwF"></iframe>
--->
