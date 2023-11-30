@@ -78,6 +78,6 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
     </tr>
 </table>
 
-### Styret
+### Kontakt
 
 E-post: <a href="mailto:post@bjergstedblaseensemble.no">post@bjergstedblaseensemble.no</a>
