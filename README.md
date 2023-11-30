@@ -33,8 +33,6 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-![aktivitetsplan](bilder/aktivitetsplan.png?raw=true)
-
 <table>
     <tr>
         <th><img src="bilder/bli_med.png?raw=true"></th>
@@ -83,34 +81,3 @@ Bjergsted Blåseensemble ble stiftet høst 2016 av studenter ved Universitetet i
 ### Styret
 
 E-post: <a href="mailto:post@bjergstedblaseensemble.no">post@bjergstedblaseensemble.no</a>
-
-<table>
-    <tr>
-        <th>Navn</th>
-        <th>Stilling</th>
-    </tr>
-    <tr>
-        <td>Henrik Aarnes</td>
-        <td>Styreleder</td>
-    </tr>
-    <tr>
-        <td>Ragnhild Kristine Midtbø</td>
-        <td>Nestleder</td>
-    </tr>
-    <tr>
-        <td>Espen Behrens</td>
-        <td>Kasserer</td>
-    </tr>
-    <tr>
-        <td>Kim Bjørnerud</td>
-        <td>Styremedlem</td>
-    </tr>
-    <tr>
-        <td>Helena Hansen</td>
-        <td>Styremedlem</td>
-    </tr>
-    <tr>
-        <td>Jack Royle</td>
-        <td>Styremedlem</td>
-    </tr>
-</table>
